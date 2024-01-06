@@ -6,7 +6,7 @@ This is a simple Snake Game created using HTML, CSS, and JavaScript. The game is
 
 ## To Play
 
-You can play the game by [clicking here](theshaguntyagi.github.io/Snakegame).
+You can play the game by [clicking here](theshaguntyagi.github.io/Snakegame/).
 
 ## Features
 
@@ -31,7 +31,7 @@ Avoid colliding with the snake's own body or the game board boundaries.
 
 ## Screenshots
 
-![Snakegame](screenshot.png)
+![Snakegame](Sreenshot.png)
 
 ## Customization
 
